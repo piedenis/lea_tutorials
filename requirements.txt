@@ -1,3 +1,5 @@
 lea >= 3.2
 matplotlib
 sympy
+numpy
+pandas
