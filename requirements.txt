@@ -1,4 +1,4 @@
-lea >= 3.3.2
+lea >= 3.4.0
 matplotlib
 sympy
 numpy
